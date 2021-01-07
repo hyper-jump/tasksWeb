@@ -1,0 +1,124 @@
+b {
+    color: red;
+    font-weight: bold;
+    font-size: 20px;
+    /*    пункт 33*/
+}
+
+i {
+    color: blue;
+    font-weight: normal;
+}
+
+p {
+    /*color: red;*/
+    /*    пункт 1*/
+    text-align: justify;
+    /*    пункт 11*/
+    /*font-style: italic;*/
+    /*    пункт 19*/
+    font-style: normal;
+    font-size: 15px;
+    /*    пункт 21*/
+    font-family: Arial;
+    /*    пункт 22*/
+    line-height: 45px;
+    /*пункт 25*/
+    text-indent: 30px;
+    /*    пункт 29*/
+}
+
+h1 {
+    color: blue;
+    /*    пункт 33*/
+    /*color: green;*/
+    /*    пункт 2*/
+    text-align: center;
+    /*    пункт 9*/
+    font-weight: normal;
+    /*    пункт 16 и 17*/
+}
+
+h2 {
+    color: blue;
+    /*    пункт 3*/
+    width: 300px;
+    /*    пункт 7*/
+    text-align: right;
+    /*пункт 10*/
+    font-weight: bold;
+    /*    пункт 17*/
+    font-style: normal;
+    /*    пункт 18*/
+    font-size: 20px;
+    /*    пункт 20*/
+    font-family: "Times New Roman";
+    /*    пункт 23*/
+}
+
+h3 {
+    color: orange;
+    /*    пункт 4*/
+    font-family: sans-serif;
+    /*    пункт 24*/
+}
+
+table {
+    width: 400px;
+    height: 200px;
+    /*    пункт 8*/
+    vertical-align: top;
+    /*    пункт 31*/
+}
+
+th {
+    text-align: left;
+    /*пункт 13*/
+    font-weight: normal;
+    /*    пункт 5*/
+    vertical-align: middle;
+    /*    пункт 32*/
+}
+
+td {
+    text-align: center;
+    /*пункт 14*/
+    font-weight: bold;
+    /*    пункт 15*/
+}
+
+ol {
+    color: red;
+    /*    пункт 34*/
+}
+
+ul {
+    color: #924763;
+    font-style: italic
+        /*    пункт 34*/
+}
+
+.qwe {
+    font-size: 12px;
+    line-height: 25px;
+    font-family: Arial;
+    width: 500px;
+    text-align: left;
+    font-style: normal;
+    text-indent: 0px;
+}
+
+.qwe1 {
+    color: green;
+    font-size: 25px;
+    font-weight: bold;
+    font-style: normal;
+    text-align: left;
+
+}
+
+.qwe2 {
+    width: 400px;
+    font-style: normal;
+
+}
