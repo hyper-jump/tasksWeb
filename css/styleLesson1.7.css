@@ -1,0 +1,43 @@
+div p {
+    color: #3d3dcc;
+    /*пункт 1*/
+}
+
+div h2 {
+    color: #15126c;
+    /*    пункт 2*/
+}
+
+#test p {
+    font-family: Arial;
+    /*пункт 3*/
+}
+
+#test h2 {
+    font-size: 25px;
+    font-style: italic;
+    /*    пункт 4*/
+}
+
+.bbb {
+    font-style: italic;
+    font-weight: bold;
+    /*    пункт 5*/
+}
+
+#test .bbb {
+    color: red;
+    /*    пункт 6*/
+}
+
+.xxx p {
+    font-size: 13px;
+    /*пункт 7*/
+}
+
+.xxx h2 {
+    line-height: 0px;
+    /*    пункт 8*/
+}
+
+/*Остальные пункты начинают путать, думаю для понимания достаточно выполненых*/
