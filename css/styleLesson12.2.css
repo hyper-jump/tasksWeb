@@ -1,0 +1,39 @@
+div {
+    border: 1px solid black;
+    padding: 20px;
+    width: 700px;
+    text-align: justify;
+    margin: 20px auto;
+    display: block;
+}
+
+h2 {
+    margin: 0px;
+}
+
+a:link,
+a:visited {
+    color: blue;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+.more {
+    text-align: right;
+}
+
+img {
+    border: 1px solid #707070;
+    float: left;
+    margin: 7px 10px 0px 0px;
+}
+
+p {
+    margin: 10px 0px;
+    padding: 0px;
+    font: 13px arial;
+    line-height: 27px;
+}
