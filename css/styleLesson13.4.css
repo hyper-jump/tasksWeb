@@ -1,0 +1,36 @@
+#menu {
+    width: 700px;
+    background-color: #2696E8;
+    margin: 0px auto;
+    border: 1px solid blue;
+}
+
+#menu ul {
+    padding: 0px;
+    margin: 0px;
+
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: stretch;
+}
+
+#menu li {
+    list-style-type: none;
+    text-align: center;
+    border: 1px solid blue;
+}
+
+#menu a {
+    padding: 10px;
+    color: white;
+    display: block;
+    text-decoration: none;
+}
+
+#menu li:hover {
+    background-color: white;
+}
+#menu a:hover {
+    color: #2696E8;
+}
