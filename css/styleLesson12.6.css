@@ -1,0 +1,27 @@
+div {
+    width: 700px;
+    margin: 10px auto;
+    padding: 0px 15px;
+    border: 2px dashed green;
+    border-radius: 15px;
+    color: green;
+    text-align: center;
+}
+p {
+    text-align: right;
+    font: 15px Arial;
+    line-height: 20px;
+}
+a {
+    color: green;
+}
+a:hover {
+    color: black;
+    text-decoration: none;
+}
+p a {
+    font-weight: bold;
+}
+p a:hover {
+    text-decoration: none;
+}
