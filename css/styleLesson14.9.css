@@ -1,0 +1,24 @@
+#wrapper {
+    width: 500px;
+    height: 400px;
+    margin: 0px auto;
+    background: #4DEE99;
+}
+
+#item1 {
+    width: 100px;
+    height: 100px;
+    background: #fff;
+    position: relative;
+    left: 50px;
+    top: 50px;
+}
+
+#item2 {
+    width: 100px;
+    height: 100px;
+    background: #fff;
+    position: relative;
+    left: 350px;
+    top: 150px;
+}

@@ -1,0 +1,26 @@
+div {
+    width: 50px;
+    height: 50px;
+}
+
+#item1 {
+    background-color: #FF8888;
+    position: absolute;
+    left: 30px;
+    top: 30px;
+}
+
+#item2 {
+    background-color: #7E89EB;
+    position: absolute;
+    left: 60px;
+    top: 60px;
+    z-index: 1;
+}
+
+#item3 {
+    background-color: #4DEE99;
+    position: absolute;
+    left: 90px;
+    top: 90px;
+}
