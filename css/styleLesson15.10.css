@@ -1,0 +1,47 @@
+#wrapper {
+    border: 1px solid black;
+    width: 1000px;
+    margin: 0px auto;
+    padding: 40px;
+}
+
+#header {
+    height: 200px;
+    margin-bottom: 40px;
+}
+
+.left {
+    border: 1px solid black;
+    width: 200px;
+    float: left;
+    height: 200px;
+}
+
+.right {
+    border: 1px solid black;
+    width: 200px;
+    float: right;
+    height: 200px;
+}
+
+#middle div {
+    height: 500px;
+}
+
+#footer div,
+#header div {
+    height: 200px;
+}
+
+.content {
+    border: 1px solid black;
+    margin: 0px 240px;
+}
+
+#footer {
+    margin-top: 40px;
+}
+
+.clearfix {
+    clear: both;
+}
